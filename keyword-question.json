@@ -1,174 +1,514 @@
 [
   {
    "keyword": "Artificial Intelligence",
-   "questions": ["What is artificial intelligence?", "How does AI work?", "What are the potential benefits and risks of AI?"]
+   "questions": "What is artificial intelligence?"
+  },
+  {
+   "keyword": "Artificial Intelligence",
+   "questions": "How does AI work?"
+  },
+  {
+   "keyword": "Artificial Intelligence",
+   "questions": "What are the potential benefits and risks of AI?"
   },
   {
    "keyword": "Metaverse",
-   "questions": ["What is the metaverse?", "How will the metaverse be accessed?", "What are the potential applications of the metaverse?"]
+   "questions": "What is the metaverse?"
+  },
+  {
+   "keyword": "Metaverse",
+   "questions": "How will the metaverse be accessed?"
+  },
+  {
+   "keyword": "Metaverse",
+   "questions": "What are the potential applications of the metaverse?"
   },
   {
    "keyword": "Podcast",
-   "questions": ["How do I listen to podcasts?", "What are some popular podcast genres?", "Can I make my podcast?"]
+   "questions": "How do I listen to podcasts?"
+  },
+  {
+   "keyword": "Podcast",
+   "questions": "What are some popular podcast genres?"
+  },
+  {
+   "keyword": "Podcast",
+   "questions": "Can I make my podcast?"
   },
   {
    "keyword": "Influencer marketing",
-   "questions": ["How do I find the right influencer for my brand?", "What are the benefits of influencer marketing?", "How do I measure the success of an influencer marketing campaign?"]
+   "questions": "How do I find the right influencer for my brand?"
+  },
+  {
+   "keyword": "Influencer marketing",
+   "questions": "What are the benefits of influencer marketing?"
+  },
+  {
+   "keyword": "Influencer marketing",
+   "questions": "How do I measure the success of an influencer marketing campaign?"
   },
   {
   "keyword": "Augmented reality",
-   "questions": ["How does AR work?", "What is augmented reality (AR)?", "What are some common applications of AR?"]
+   "questions": "How does AR work?"
+  },
+  {
+  "keyword": "Augmented reality",
+   "questions": "What is augmented reality (AR)?"
+  },
+  {
+  "keyword": "Augmented reality",
+   "questions": "What are some common applications of AR?"
   },
   {
    "keyword": "Virtual reality",
-   "questions": ["What are the challenges and limitations of VR?", "What are the applications of VR?", "What is virtual reality (VR)?"]
+   "questions": "What are the challenges and limitations of VR?"
+  },
+  {
+   "keyword": "Virtual reality",
+   "questions": "What are the applications of VR?"
+  },
+  {
+   "keyword": "Virtual reality",
+   "questions": "What is virtual reality (VR)?"
   },
   {
    "keyword": "Reels",
-   "questions": ["How to create a Reel?", "What are the best practices for creating Reels?", "How can I increase the visibility of my Reels?"]
+   "questions": "How to create a Reel?"
+  },
+  {
+   "keyword": "Reels",
+   "questions": "What are the best practices for creating Reels?"
+  },
+  {
+   "keyword": "Reels",
+   "questions": "How can I increase the visibility of my Reels?"
   },
   {
    "keyword": "Streaming Services",
-   "questions": ["What are the differences between streaming services and traditional cable TV?", "How do I choose the right streaming service?", "What are some popular streaming services?"]
+   "questions": "What are the differences between streaming services and traditional cable TV?"
+  },
+  {
+   "keyword": "Streaming Services",
+   "questions": "How do I choose the right streaming service?"
+  },
+  {
+   "keyword": "Streaming Services",
+   "questions": "What are some popular streaming services?"
   },
   {
   "keyword": "Journey",
-   "questions": ["What is the most popular travel destination in the world?", "How can I plan a budget-friendly trip?", "What is the best time to travel for the best deals?"]
+   "questions": "What is the most popular travel destination in the world?"
+  },
+  {
+  "keyword": "Journey",
+   "questions": "How can I plan a budget-friendly trip?"
+  },
+  {
+  "keyword": "Journey",
+   "questions": "What is the best time to travel for the best deals?"
   },
   {
    "keyword": "Photography",
-   "questions": ["What is the difference between aperture, shutter speed, and ISO?", "What is the rule of thirds?", "What is the best camera for beginners?"]
+   "questions": "What is the difference between aperture, shutter speed, and ISO?"
+  },
+  {
+   "keyword": "Photography",
+   "questions": "What is the rule of thirds?"
+  },
+  {
+   "keyword": "Photography",
+   "questions": "What is the best camera for beginners?"
   },
   {
    "keyword": "Ecotourism",
-   "questions": [" What are some examples of ecotourism activities?", " How can I choose an eco-friendly tour operator?", "What can I do to minimize my impact as an ecotourist?"]
+   "questions": " What are some examples of ecotourism activities?"
+  },
+  {
+   "keyword": "Ecotourism",
+   "questions": "How can I choose an eco-friendly tour operator?"
+  },
+  {
+   "keyword": "Ecotourism",
+   "questions": "What can I do to minimize my impact as an ecotourist?"
   },
   {
    "keyword": "t20 world cup",
-   "questions": ["When is the next T20 World Cup?", "Which team won the most recent T20 World Cup?", "Who is the highest run-scorer in T20 World Cup history?"]
+   "questions": "When is the next T20 World Cup?"
+  },
+  {
+   "keyword": "t20 world cup",
+   "questions":  "Which team won the most recent T20 World Cup?"
+  },
+  {
+   "keyword": "t20 world cup",
+   "questions": "Who is the highest run-scorer in T20 World Cup history?"
   },
   {
    "keyword": "Blockchain",
-   "questions": ["How does blockchain work?", "What are the benefits of blockchain technology?", "What are the potential applications of blockchain?"]
+   "questions": "How does blockchain work?"
+  },
+  {
+   "keyword": "Blockchain",
+   "questions": "What are the benefits of blockchain technology?"
+  },
+  {
+   "keyword": "Blockchain",
+   "questions":  "What are the potential applications of blockchain?"
   },
   {
    "keyword": "BGMI",
-   "questions": ["What is BGMI?", "Why was BGMI banned in India?","Is BGMI safe to play?"]
+   "questions": "What is BGMI?"
+  },
+  {
+   "keyword": "BGMI",
+   "questions": "Why was BGMI banned in India?"
+  },
+  {
+   "keyword": "BGMI",
+   "questions": "Is BGMI safe to play?"
   },
   {
    "keyword": "Netflix",
-   "questions": ["How much does Netflix cost?", "What kind of content is available on Netflix?", "Can I download content from Netflix for offline viewing?"]
+   "questions": "How much does Netflix cost?"
+  },
+  {
+   "keyword": "Netflix",
+   "questions": "What kind of content is available on Netflix?"
+  },
+  {
+   "keyword": "Netflix",
+   "questions": "Can I download content from Netflix for offline viewing?"
   },
   {
    "keyword": "Love",
-   "questions": ["How do you know if you are truly in love?", "Is love essential for a happy life?", "How can I overcome heartbreak after a breakup?"]
+   "questions": "How do you know if you are truly in love?"
+  },
+  {
+   "keyword": "Love",
+   "questions": "Is love essential for a happy life?"
+  },
+  {
+   "keyword": "Love",
+   "questions": "How can I overcome heartbreak after a breakup?"
   },
  {
    "keyword": "Football",
-   "questions": ["What are the basic rules of football?", "Who are some of the greatest football players of all time?", "What is the most prestigious football tournament in the world?"]
+   "questions": "What are the basic rules of football?"
+  },
+  {
+   "keyword": "Football",
+   "questions": "Who are some of the greatest football players of all time?"
+  },
+  {
+   "keyword": "Football",
+   "questions": "What is the most prestigious football tournament in the world?"
   },
   {
    "keyword": "Amazon",
-   "questions": ["What is Amazon's business model?", "How does Amazon Prime work?", "What are some of Amazon's popular products and services?"]
+   "questions": "What is Amazon's business model?"
+  },
+  {
+   "keyword": "Amazon",
+   "questions": "How does Amazon Prime work?"
+  },
+  {
+   "keyword": "Amazon",
+   "questions": "What are some of Amazon's popular products and services?"
   },
   {
    "keyword": "iPhone",
-   "questions": ["How do I take a screenshot on my iPhone?", "How do I update my iPhone software?", "How do I manage my iPhone storage?"]
+   "questions": "How do I take a screenshot on my iPhone?"
+  },
+  {
+   "keyword": "iPhone",
+   "questions": "How do I update my iPhone software?"
+  },
+  {
+   "keyword": "iPhone",
+   "questions": "How do I manage my iPhone storage?"
   },
   {
    "keyword": "trading",
-   "questions": ["How do I get started with trading?", "What are the different types of trading?", "What are the risks involved in trading?"]
+   "questions": "How do I get started with trading?"
+  },
+  {
+   "keyword": "trading",
+   "questions": "What are the different types of trading?"
+  },
+  {
+   "keyword": "trading",
+   "questions": "What are the risks involved in trading?"
   },
   {
    "keyword": "elections",
-   "questions": ["What is the purpose of elections?", "What are the different types of elections?", "What are the challenges and criticisms of elections?"]
+   "questions": "What is the purpose of elections?"
+  },
+  {
+   "keyword": "elections",
+   "questions": "What are the different types of elections?"
+  },
+  {
+   "keyword": "elections",
+   "questions": "What are the challenges and criticisms of elections?"
   },
   {
    "keyword": "cloud computing",
-   "questions": ["What is cloud computing?", "What are the different types of cloud deployment models?", "What are the benefits of using cloud computing?"]
+   "questions": "What is cloud computing?"
+  },
+  {
+   "keyword": "cloud computing",
+   "questions": "What are the different types of cloud deployment models?"
+  },
+  {
+   "keyword": "cloud computing",
+   "questions": "What is cloud computing?", "What are the different types of cloud deployment models?", "What are the benefits of using cloud computing?"
   },
   {
    "keyword": "Cyber security",
-   "questions": ["What are the benefits of using cloud computing?", "How can I protect myself from cybersecurity threats?", "What is the role of artificial intelligence (AI) in cybersecurity?"]
+   "questions":  "How can I protect myself from cybersecurity threats?"
+  },
+  {
+   "keyword": "Cyber security",
+   "questions": "What is the role of artificial intelligence (AI) in cybersecurity?"
   },
   {
    "keyword": "Health",
-   "questions": ["What is a healthy diet and what foods should I include?", "How much exercise should I do each week?", "How can I manage stress and improve my mental health?"]
+   "questions": "What is a healthy diet and what foods should I include?"
+  },
+  {
+   "keyword": "Health",
+   "questions": "How much exercise should I do each week?"
+  },
+  {
+   "keyword": "Health",
+   "questions": "How can I manage stress and improve my mental health?"
   },
   {
    "keyword": "Education",
-   "questions": ["What is the importance of education?", "What is the future of education?", "How can education systems be improved?"]
+   "questions": "What is the importance of education?"
+  },
+  {
+   "keyword": "Education",
+   "questions": "What is the future of education?"
+  },
+  {
+   "keyword": "Education",
+   "questions": "How can education systems be improved?"
   },
   {
    "keyword": "Environment",
-   "questions": ["What is climate change and what are its causes?", "What are the effects of climate change?", "What are the major environmental issues facing the world today?"]
+   "questions": "What is climate change and what are its causes?"
+  },
+  {
+   "keyword": "Environment",
+   "questions": "What are the effects of climate change?"
+  },
+  {
+   "keyword": "Environment",
+   "questions": "What are the major environmental issues facing the world today?"
   },
   {
    "keyword": "Politics",
-   "questions": ["What is the difference between a democracy and a dictatorship?", "What is the role of a political party?", "What is the concept of civic engagement?"]
+   "questions": "What is the difference between a democracy and a dictatorship?"
+  },
+  {
+   "keyword": "Politics",
+   "questions":  "What is the role of a political party?"
+  },
+  {
+   "keyword": "Politics",
+   "questions": "What is the concept of civic engagement?"
   },
   {
    "keyword": "Culture",
-   "questions": ["How does culture influence our behavior", "What are the different components of culture?", "How does culture change over time?"]
+   "questions": "How does culture influence our behavior"
+  },
+  {
+   "keyword": "Culture",
+   "questions": "What are the different components of culture?"
+  },
+  {
+   "keyword": "Culture",
+   "questions": "How does culture change over time?"
   },
   {
    "keyword": "Music",
-   "questions": ["What is the most popular musical instrument in the world?", "Who is considered the 'King of Pop'?", "What is the difference between classical and pop music?"]
+   "questions": "What is the most popular musical instrument in the world?"
+  },
+  {
+   "keyword": "Music",
+   "questions": "Who is considered the 'King of Pop'?"
+  },
+  {
+   "keyword": "Music",
+   "questions": "What is the difference between classical and pop music?"
   },
   {
    "keyword": "Movies",
-   "questions": ["What is the highest-grossing movie of all time?", "Who is the most nominated actor at the Oscars?", "What is the longest movie ever made?"]
+   "questions": "What is the highest-grossing movie of all time?"
+  },
+  {
+   "keyword": "Movies",
+   "questions": "Who is the most nominated actor at the Oscars?"
+  },
+  {
+   "keyword": "Movies",
+   "questions": "What is the longest movie ever made?"
   },
   {
    "keyword": "Fashion",
-   "questions": ["What are the current fashion trends?", "How can I find my style?", "What are the basics of fashion?"]
+   "questions": "What are the current fashion trends?"
+  },
+  {
+   "keyword": "Fashion",
+   "questions":  "How can I find my style?"
+  },
+  {
+   "keyword": "Fashion",
+   "questions": "What are the basics of fashion?"
   },
   {
    "keyword": "Flipkart",
-   "questions": ["What are the benefits of shopping on Flipkart?", "What are the return and refund policies on Flipkart?", "How does Flipkart work?"]
+   "questions": "What are the benefits of shopping on Flipkart?"
+  },
+  {
+   "keyword": "Flipkart",
+   "questions": "What are the return and refund policies on Flipkart?"
+  },
+  {
+   "keyword": "Flipkart",
+   "questions": "How does Flipkart work?"
   },
   {
    "keyword": "Astronomy",
-   "questions": ["What is the difference between a star and a planet?", "How do astronomers measure the distance to stars?", "What is the Big Bang theory?"]
+   "questions": "What is the difference between a star and a planet?"
+  },
+  {
+   "keyword": "Astronomy",
+   "questions": "How do astronomers measure the distance to stars?"
+  },
+  {
+   "keyword": "Astronomy",
+   "questions": "What is the Big Bang theory?"
   },
   {
    "keyword": "Space",
-   "questions": ["What is the largest planet in our solar system?", "What is the Milky Way galaxy?", "What is the nearest star to our Sun?"]
+   "questions": "What is the largest planet in our solar system?"
+  },
+  {
+   "keyword": "Space",
+   "questions": "What is the Milky Way galaxy?"
+  },
+  {
+   "keyword": "Space",
+   "questions": "What is the nearest star to our Sun?"
   },
   {
    "keyword": "Hiking",
-   "questions": ["What gear do I need for hiking?", "How do I prepare for a hike?", "What safety precautions should I take while hiking?"]
+   "questions": "What gear do I need for hiking?"
+  },
+  {
+   "keyword": "Hiking",
+   "questions": "How do I prepare for a hike?"
+  },
+  {
+   "keyword": "Hiking",
+   "questions": "What safety precautions should I take while hiking?"
   },
   {
    "keyword": "Fishing",
-   "questions": ["What is the best time of year to go fishing?", "What are the essential fishing equipment?", "How do I choose the right fishing rod and reel?"]
+   "questions": "What is the best time of year to go fishing?"
+  },
+  {
+   "keyword": "Fishing",
+   "questions": "What are the essential fishing equipment?"
+  },
+  {
+   "keyword": "Fishing",
+   "questions": "How do I choose the right fishing rod and reel?"
   },
   {
    "keyword": "Depression",
-   "questions": ["What are the symptoms of depression?", "What causes depression?", "How is depression treated?"]
+   "questions": "What are the symptoms of depression?"
+  },
+  {
+   "keyword": "Depression",
+   "questions": "What causes depression?"
+  },
+  {
+   "keyword": "Depression",
+   "questions": "How is depression treated?"
   },
   {
    "keyword": "Cancer",
-   "questions": ["What are the main types of cancer?", "What are the risk factors for cancer?", "How is cancer treated?"]
+   "questions": "What are the main types of cancer?"
+  },
+  {
+   "keyword": "Cancer",
+   "questions": "What are the risk factors for cancer?"
+  },
+  {
+   "keyword": "Cancer",
+   "questions": "How is cancer treated?"
   },
   {
    "keyword": "Machine learning",
-   "questions": ["What are the different types of machine learning?", "What are some common machine learning algorithms?", "What are the challenges and limitations of machine learning?"]
+   "questions": "What are the different types of machine learning?"
+  },
+  {
+   "keyword": "Machine learning",
+   "questions": "What are some common machine learning algorithms?"
+  },
+  {
+   "keyword": "Machine learning",
+   "questions": "What are the challenges and limitations of machine learning?"
   },
   {
    "keyword": "Data Science",
-   "questions": ["What are the key skills required for a data scientist?", "What are some common applications of data science?", "What is the difference between data science and data analysis?"]
+   "questions": "What are the key skills required for a data scientist?"
+  },
+  {
+   "keyword": "Data Science",
+   "questions": "What are some common applications of data science?"
+  },
+  {
+   "keyword": "Data Science",
+   "questions": "What is the difference between data science and data analysis?"
   },
   {
    "keyword": "Internet of things",
-   "questions": ["What are the key components of an IoT system?", "What are the potential benefits of IoT?", "What are the challenges and concerns related to IoT?"]
+   "questions": "What are the key components of an IoT system?"
+  },
+  {
+   "keyword": "Internet of things",
+   "questions": "What are the potential benefits of IoT?"
+  },
+  {
+   "keyword": "Internet of things",
+   "questions": "What are the challenges and concerns related to IoT?"
   },
   {
    "keyword": "Yoga",
-   "questions": ["What are the benefits of yoga?", "Is yoga suitable for everyone?", "What should I expect from my first yoga class?"]
+   "questions": "What are the benefits of yoga?"
+  },
+  {
+   "keyword": "Yoga",
+   "questions": "Is yoga suitable for everyone?"  
+  },
+  {
+   "keyword": "Yoga",
+   "questions": "What should I expect from my first yoga class?"
   },
   {
    "keyword": "Time Management",
-   "questions": ["How can I prioritize tasks effectively?", "How do I avoid procrastination?", "How can I manage my time effectively when working remotely?"]
+   "questions": "How can I prioritize tasks effectively?"
+  }
+  {
+   "keyword": "Time Management",
+   "questions": "How do I avoid procrastination?"
+  }
+  {
+   "keyword": "Time Management",
+   "questions": "How can I manage my time effectively when working remotely?"
   }
 ]
